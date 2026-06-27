@@ -7,6 +7,8 @@
 // @match        https://logistics.amazon.co.uk/*
 // @match        https://logistics.amazon.fr/*
 // @match        https://*.amazon.co.uk/*
+// @updateURL    https://raw.githubusercontent.com/agrebouh/DWP2-Induct-Tracker-v3/main/DWP2-Induct-Tracker-v3.user.js
+// @downloadURL  https://raw.githubusercontent.com/agrebouh/DWP2-Induct-Tracker-v3/main/DWP2-Induct-Tracker-v3.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
